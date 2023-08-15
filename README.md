@@ -1,4 +1,4 @@
-# 🐍 Python Turtle Snake Game 🐍
+# 🐍 Python Snake Game 🐍
 
 Dive into the classic Snake game, recreated using Python's turtle module. Eat the food, grow your snake, and try to avoid running into yourself!
 
@@ -13,7 +13,7 @@ Dive into the classic Snake game, recreated using Python's turtle module. Eat th
 
 1. Clone this repository:
    ```bash
-   git clone link-to-repo.git
+   git clone https://github.com/NandishRana/snake-game.git
    ```
 2. Navigate to the directory
    ```bash
